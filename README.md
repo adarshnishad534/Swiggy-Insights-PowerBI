@@ -1,4 +1,6 @@
-🍔 Swiggy Data Analysis using Power BI
+<h1>🍔 Swiggy Data Analysis using Power BI</h1>
+
+
 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze Swiggy’s food delivery data and extract actionable business insights. The analysis focuses on sales performance, customer behavior, restaurant trends, and order patterns to support data-driven decision making.
