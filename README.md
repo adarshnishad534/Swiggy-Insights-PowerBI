@@ -83,3 +83,29 @@ A business case study for food delivery platforms
 
 
 
+
+
+<img width="1175" height="677" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/424de2ce-7eb0-47f9-9cf0-e88251e805cb" />
+
+
+
+
+
+<img width="1171" height="669" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/c6ff45bb-cce2-4553-8814-fb994833a329" />
+
+
+
+
+
+<img width="1165" height="665" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/1c26dbd3-4474-4974-95e6-64683738a50e" />
+
+
+
+
+<img width="1188" height="684" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/07618084-69dc-4b62-9ad8-cb53a158abed" />
+
+
+
+
+
+
